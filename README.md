@@ -12,7 +12,7 @@
  
  🔭 I’m currently undergraduate on **[University of Jaffna, Sri Lanka](https://www.jfn.ac.lk/)**
  
- 🌱 I’m currently learning **Font-end web development**
+ 🌱 I’m currently learning **Fullstack web development**
 
  💬 Ask me about **Node.js, React... or anything [here](https://github.com/dkasun2001/dkasun2001/issues)**
 
