@@ -41,6 +41,6 @@
 <br>
 ![GitHub Streak](https://streak-stats.demolab.com?user=dkasun2001&theme=radical)
 <br>
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkasun2001&theme=radical)](https://github.com/dkasun2001)
+<!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkasun2001&theme=radical)](https://github.com/dkasun2001) -->
 
 </div>
